@@ -3,7 +3,7 @@
 ## Dashboard Overview   
 The Call Center Dashboard provides an interactive and comprehensive overview of the following KPIs:
 
-**Call Answer Rate**
+**Call Answer Rate**  
 CallAnswerRate: 81.1%
 CallAbandonedRate: 18.9%
 This KPI reflects the percentage of calls answered by agents and the proportion of calls abandoned before being answered.
@@ -26,7 +26,7 @@ These ratings provide insights into customer feedback and overall satisfaction w
 **Call Volume by Time**
 Visual representation of the number of calls received across different time intervals, providing insights into peak call times.
 
-Agent Performance
+**Agent Performance**
 Table showcasing individual agent metrics, including:
 Agent Name
 Call Volume: Total number of calls handled
@@ -35,7 +35,7 @@ Call Answer Rate
 Resolution Rate
 This section helps identify top-performing agents and areas for improvement in others.
 
-Calls per Topic
+**Calls per Topic**
 Breakdown of the number of calls received across different topics:
 Streaming: 1022 calls
 Technical Support: 1019 calls
@@ -44,12 +44,12 @@ Admin Support: 976 calls
 Contract Related: 976 calls
 This allows the call center to identify the most common reasons for customer inquiries.
 
-How to Use the Dashboard
-Monitor Agent Performance: Use the agent performance table to track individual agent metrics. Focus on improving call answer rates and resolution rates where needed.
+## How to Use the Dashboard
+**Monitor Agent Performance**: Use the agent performance table to track individual agent metrics. Focus on improving call answer rates and resolution rates where needed.
 
-Identify Peak Call Times: Analyze the call volume by time to adjust staffing and resource allocation during peak hours.
+**Identify Peak Call Times**: Analyze the call volume by time to adjust staffing and resource allocation during peak hours.
 
-Track Customer Satisfaction: The customer satisfaction ratings offer insights into areas of service that need improvement. It helps identify areas where training or process improvements may be required.
+**Track Customer Satisfaction**: The customer satisfaction ratings offer insights into areas of service that need improvement. It helps identify areas where training or process improvements may be required.
 
-Understand Common Issues: The breakdown of calls per topic can guide resource allocation and improvement in specific service areas, like streaming or technical support.
+**Understand Common Issues**: The breakdown of calls per topic can guide resource allocation and improvement in specific service areas, like streaming or technical support.
 
