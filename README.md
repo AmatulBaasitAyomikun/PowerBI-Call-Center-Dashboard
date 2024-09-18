@@ -1,19 +1,19 @@
-This repository contains a Call Center Dashboard designed to visualize and analyze key performance metrics from a call center's operations. The dashboard was built with PowerBI to provide insights into call handling, agent performance, and customer satisfaction.
 
-Dashboard Overview   
+
+## Dashboard Overview   
 The Call Center Dashboard provides an interactive and comprehensive overview of the following KPIs:
 
-Call Answer Rate
+**Call Answer Rate**
 CallAnswerRate: 81.1%
 CallAbandonedRate: 18.9%
 This KPI reflects the percentage of calls answered by agents and the proportion of calls abandoned before being answered.
 
-Call Handling Performance
+**Call Handling Performance**   
 Average Speed of Answer (ASA): 54.7 seconds
 Average Handle Time: 0.41 (likely in minutes)
 These metrics help in understanding the efficiency of the call center agents in answering and handling calls.
 
-Customer Satisfaction
+**Customer Satisfaction**
 Average Satisfaction Rating: 2.76 (on a scale of 0 to 5.52)
 Call Satisfaction Distribution:
 Neutral: 30.04%
@@ -23,7 +23,7 @@ Unsatisfactory: 10.29%
 Very Unsatisfactory: 9.77%
 These ratings provide insights into customer feedback and overall satisfaction with the call center's service.
 
-Call Volume by Time
+**Call Volume by Time**
 Visual representation of the number of calls received across different time intervals, providing insights into peak call times.
 
 Agent Performance
