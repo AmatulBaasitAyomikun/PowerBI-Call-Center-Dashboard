@@ -1,55 +1,35 @@
-
-
-## Dashboard Overview   
-The Call Center Dashboard provides an interactive and comprehensive overview of the following KPIs:
-
-**Call Answer Rate**  
-CallAnswerRate: 81.1%
-CallAbandonedRate: 18.9%
-This KPI reflects the percentage of calls answered by agents and the proportion of calls abandoned before being answered.
-
-**Call Handling Performance**   
-Average Speed of Answer (ASA): 54.7 seconds
-Average Handle Time: 0.41 (likely in minutes)
-These metrics help in understanding the efficiency of the call center agents in answering and handling calls.
-
-**Customer Satisfaction**
-Average Satisfaction Rating: 2.76 (on a scale of 0 to 5.52)
-Call Satisfaction Distribution:
-Neutral: 30.04%
-Satisfactory: 29.11%
-Very Satisfactory: 20.7%
-Unsatisfactory: 10.29%
-Very Unsatisfactory: 9.77%
-These ratings provide insights into customer feedback and overall satisfaction with the call center's service.
-
-**Call Volume by Time**
-Visual representation of the number of calls received across different time intervals, providing insights into peak call times.
-
-**Agent Performance**
-Table showcasing individual agent metrics, including:
-Agent Name
-Call Volume: Total number of calls handled
-Average Interaction Length
-Call Answer Rate
-Resolution Rate
-This section helps identify top-performing agents and areas for improvement in others.
-
-**Calls per Topic**
-Breakdown of the number of calls received across different topics:
-Streaming: 1022 calls
-Technical Support: 1019 calls
-Payment Related: 1007 calls
-Admin Support: 976 calls
-Contract Related: 976 calls
-This allows the call center to identify the most common reasons for customer inquiries.
-
-## How to Use the Dashboard
-**Monitor Agent Performance**: Use the agent performance table to track individual agent metrics. Focus on improving call answer rates and resolution rates where needed.
-
-**Identify Peak Call Times**: Analyze the call volume by time to adjust staffing and resource allocation during peak hours.
-
-**Track Customer Satisfaction**: The customer satisfaction ratings offer insights into areas of service that need improvement. It helps identify areas where training or process improvements may be required.
-
-**Understand Common Issues**: The breakdown of calls per topic can guide resource allocation and improvement in specific service areas, like streaming or technical support.
-
+# Telecom Company Call Center Dashboard Project
+## Key Learning Points:
+* Understand how to design a Power BI dashboard to represent KPIs and metrics clearly.  
+* Gain insights into customer satisfaction and agent performance in a call center environment.  
+* Learn how to interpret and analyze telecom data, focusing on response times and customer engagement.  
+* Explore the application of data visualization techniques to provide business value.
+## Business Problem
+* Telecom Marketing Competition: Telecom companies continuously promote their services with promises of better prices or service. However, the real question is: What do customers truly want?  
+* Client’s Need: A large telecom company seeks a dashboard that offers insights into their call center operations, focusing on KPIs that measure customer satisfaction, agent performance, and call handling efficiency.  
+## Rationale of the Project
+* Customer Insight: The client needs an understanding of how customers interact with their call center and what contributes to satisfaction or dissatisfaction.  
+* Operational Efficiency: By analyzing call metrics and agent performance, the client aims to improve the efficiency of the call center and enhance customer service.  
+* Data-Driven Decision-Making: A dashboard will enable the telecom company to make informed decisions based on data trends, ultimately improving both agent performance and customer experiences.  
+## Aim of the Project
+* Create a Power BI Dashboard: Develop a comprehensive dashboard that visualizes key performance indicators (KPIs) relevant to the telecom company’s call center.    
+* Provide Actionable Insights: Help the client better understand customer satisfaction, call handling performance, and agent effectiveness to make data-backed improvements.    
+## Data Description
+* Customer Satisfaction Data: Overall satisfaction ratings based on interactions with the call center.    
+### Call Metrics:
+* Calls Answered/Abandoned: The number of calls answered versus those abandoned by customers.  
+* Calls by Time: Time-based analysis of call volume (e.g., peak hours).  
+* Average Speed of Answer (ASA): The time taken for agents to answer calls.  
+###  Agent Performance:
+* Handle Time vs Calls Answered: A quadrant analysis that compares the average talk duration per agent against the number of calls answered.  
+## Tech Stack
+* Power BI: For data visualization and dashboard creation.     
+* Excel: For any pre-processing or additional data manipulation.    
+## Project Scope
+* Data Collection and Cleaning: Gather the dataset provided by the telecom company and ensure it’s clean for use in Power BI.  
+### Dashboard Design:
+* Visualize Overall Customer Satisfaction to highlight how customers perceive the service.  
+* Show Calls Answered vs Abandoned to provide insights into call center efficiency.  
+* Present Calls by Time to identify peak periods and optimize resource allocation.  
+* Track Average Speed of Answer to understand how quickly agents are responding to calls.
+* Analyze Agent’s Performance Quadrant by comparing Average Handle Time and Calls Answered to categorize agents and identify training needs.
